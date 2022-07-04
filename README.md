@@ -35,7 +35,7 @@
 
 - [![Profile views](https://gpvc.arturio.dev/MatheeshaOfficial)](https://gpvc.arturio.dev/MatheeshaOfficial)
 - [![GitHub followers](https://img.shields.io/github/followers/MatheeshaOfficial.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/MatheeshaOfficial?tab=followers)
-- [![Intagramfollowers](https://img.shields.io/badge/Instagram%20Followers-4d267a?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=instagram)](https://socialblade.com/instagram/user/Matheesha_Official)
+- [![Intagramfollowers](https://img.shields.io/badge/Instagram%20Followers-4d267a?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=instagram)](https://socialblade.com/instagram/user/matheesha_official)
 
 <p align="center"> <a href="https://github.com/MatheeshaOfficial"><img src="https://github-profile-trophy.vercel.app/?username=MatheeshaOfficial&no-bg=true" alt="MatheeshaOfficial" /></a> </p>
 &nbsp;
