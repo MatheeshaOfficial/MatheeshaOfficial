@@ -40,6 +40,8 @@
 <p align="center"> <a href="https://github.com/MatheeshaOfficial"><img src="https://github-profile-trophy.vercel.app/?username=MatheeshaOfficial&no-bg=true" alt="MatheeshaOfficial" /></a> </p>
 &nbsp;
 
+[![An image of @matheeshaofficial's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/matheeshaofficial)](https://holopin.io/@matheeshaofficial)
+
 # LANGUAGES & TOOLS
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheeshaOfficial">
